@@ -26,7 +26,7 @@ I’m a  **Data Science** student
 Here are a few projects I’ve worked on:  
 - [Handwritten Digit Recognition:] (https://github.com/faryal-art/deep-learning-projects/blob/main/MNIST_Digit_Recognition_PyTorch) CNN on MNIST dataset using PyTorch
 - [🎬 Movie Recommendation System](https://github.com/faryal-art/MovieRecommandationSystem): Content-based recommendation using TF-IDF and cosine similarity in Python.  
-- [📧 Spam Detection System:](https://github.com/faryal-art/Spam_email_classifier) End-to-end ML pipeline  for spam classification. 
+- [📧 Spam Detection System:](https://github.com/faryal-art/Spam_email_classifier) End-to-end  spam classification model. 
 
 
 _Check out my repositories for more!_
